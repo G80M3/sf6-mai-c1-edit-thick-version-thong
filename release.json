@@ -17,26 +17,10 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-10pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "de4a456460386c22771c7cff61793aeb2fb6270a4abd109ab77a1cc71f9c69dd",
-      "size": 46463345,
-      "percent": 10,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-Thong-10pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "102e8e0aced64f9fbb8b7e2d80206e155353dff90864edbb1dae0e649ac88126",
       "size": 30272401,
-      "percent": 10,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-10pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "95c3c3da33edfab5456bbe4e776782c480880f55bbcc9192ee59f5f55732460b",
-      "size": 43749206,
       "percent": 10,
       "hair": "NoPublicHair"
     },
@@ -49,26 +33,10 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-15pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "a23e53884cb0a12ebd6af49ed73a7c9cbda482d1dd37eaaca4aa6b05aaa8ac9a",
-      "size": 46466327,
-      "percent": 15,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-Thong-15pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "2e615f42bdc468ca24aa83b09826160a4b9a5324830107b597d888362c2aa230",
       "size": 30272332,
-      "percent": 15,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-15pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "22263bbc783baa732cf3ba7d4af0dae5e4ec3946ad79e9c9fbb455673f1c0fe2",
-      "size": 43752270,
       "percent": 15,
       "hair": "NoPublicHair"
     },
@@ -81,34 +49,13 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-20pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "66ae33a73799436d8f1b77b73793bbcf96d447139e9a112b57bd2ad2d46288a2",
-      "size": 46462435,
-      "percent": 20,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-Thong-20pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "9ebfbe885d645c37d60b2f4335ff90d5a6f951bdc569ee50d52be34b5dcb2bfe",
       "size": 30272679,
       "percent": 20,
       "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-Thong-20pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "4c6669d21f469bbd22e797b662981e148e384782111cf7b23a71b4af97081ee4",
-      "size": 43748270,
-      "percent": 20,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "SHA256SUMS.txt",
-      "kind": "checksums",
-      "sha256": "0d800379c7242d159d4453188dc560dbd4f3f881d457d081f302cb2acb59e5c4",
-      "size": 1542
     }
-  ]
+  ],
+  "publication_scope": "installation_zip_only"
 }
