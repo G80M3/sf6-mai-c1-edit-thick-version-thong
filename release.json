@@ -11,23 +11,23 @@
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-10pct-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "49c1413d07188b189d358201910a1dce3f4d444cf059200ea437c24792144f01",
-      "size": 33099958,
+      "sha256": "4db1785f619b466d7f5a9c09d76e0494ed09443c2ed4591912540c8dbf281d3d",
+      "size": 33099957,
       "percent": 10,
       "hair": "PublicHair"
     },
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-10pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "102e8e0aced64f9fbb8b7e2d80206e155353dff90864edbb1dae0e649ac88126",
-      "size": 30272401,
+      "sha256": "da07bbf1ce4e25a0f1f179d4549fa4533a7daca8d3a1002e6d1e53593edc3611",
+      "size": 30272400,
       "percent": 10,
       "hair": "NoPublicHair"
     },
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-15pct-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "7a824dc0e943b517b9eadb2133488bba0630231e31505a1b18060a15caba2034",
+      "sha256": "059ccea47cf1a36a37835314bf740e60d983e8491126f2fc62a815b64582c09c",
       "size": 33099952,
       "percent": 15,
       "hair": "PublicHair"
@@ -35,7 +35,7 @@
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-15pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "2e615f42bdc468ca24aa83b09826160a4b9a5324830107b597d888362c2aa230",
+      "sha256": "8e263e14a4ead2b07a7f74f5b276feaf565dca8f2a4a7c676c36abae5ea6d32c",
       "size": 30272332,
       "percent": 15,
       "hair": "NoPublicHair"
@@ -43,19 +43,20 @@
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-20pct-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "a9ec84831b3ffddddc273bfc5b11e545209f6b64229715f01ee6101352a08ab7",
-      "size": 33100542,
+      "sha256": "51c5871c798a3bfa5789b3eec7b25ead7b22c9c5638c93163ab86cf84f9136a9",
+      "size": 33100541,
       "percent": 20,
       "hair": "PublicHair"
     },
     {
       "name": "Mai-C1-Edit-Thick-Version-Thong-20pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "9ebfbe885d645c37d60b2f4335ff90d5a6f951bdc569ee50d52be34b5dcb2bfe",
-      "size": 30272679,
+      "sha256": "a1a2b66a0609ed7b9d9873cff177f81f8a6b402d599933081685dca6a70e49e4",
+      "size": 30272678,
       "percent": 20,
       "hair": "NoPublicHair"
     }
   ],
-  "publication_scope": "installation_zip_only"
+  "publication_scope": "installation_zip_only",
+  "author": "G80M3 on GitHub / Diamond Fountain Works on Nexus Mods"
 }
